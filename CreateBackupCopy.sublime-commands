@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Create backup copy of file",
+        "command": "create_backup_copy"
+    }
+]

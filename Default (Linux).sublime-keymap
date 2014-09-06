@@ -1,0 +1,5 @@
+[
+    { 
+      "keys": ["alt+shift+b"], "command": "create_backup_copy"
+    }
+]
